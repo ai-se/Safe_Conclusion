@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data
+Jupiter_notebook/Data
+
+Python/Data
+
+*.pkl
+/*.pkl
+*.csv
+/*.csv
